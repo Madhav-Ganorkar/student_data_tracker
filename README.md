@@ -12,8 +12,8 @@ It uses basic Python, file handling, and exception handling to perform tasks.
 3. Open terminal inside the project folder.
 4. Run the program:
 
-```bash
 python student_tracker.py
+
 
 
 ## ⚙️ Functionalities
@@ -47,4 +47,8 @@ Sushil,102,70,68,75
 
 **Madhav Ganorkar**  
 Python Assignment – Masai School
+
+
+
+
 
